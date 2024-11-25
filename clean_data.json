@@ -1,0 +1,296 @@
+{
+ "cashflow_analysis": [
+  {
+   "time": "2023-08",
+   "total_income": 1390000.0,
+   "total_expense": 1412949.9999999998,
+   "net_cashflow": -22950.000000000076
+  },
+  {
+   "time": "2023-09",
+   "total_income": 1607000.0,
+   "total_expense": 1443530.0,
+   "net_cashflow": 163470.0
+  },
+  {
+   "time": "2023-10",
+   "total_income": 1510000.0,
+   "total_expense": 1652785.0,
+   "net_cashflow": -142784.99999999994
+  },
+  {
+   "time": "2023-11",
+   "total_income": 1200000.0,
+   "total_expense": 1077068.0,
+   "net_cashflow": 122931.99999999994
+  },
+  {
+   "time": "2023-12",
+   "total_income": 1750000.0,
+   "total_expense": 1829508.0,
+   "net_cashflow": -79508.00000000004
+  },
+  {
+   "time": "2024-01",
+   "total_income": 9735000.0,
+   "total_expense": 11400361.0,
+   "net_cashflow": -1665361.0
+  },
+  {
+   "time": "2024-02",
+   "total_income": 19201015.0,
+   "total_expense": 18971500.0,
+   "net_cashflow": 229514.99999999983
+  },
+  {
+   "time": "2024-03",
+   "total_income": 3620000.0,
+   "total_expense": 2670818.0,
+   "net_cashflow": 949181.9999999999
+  },
+  {
+   "time": "2024-04",
+   "total_income": 6250100.999999999,
+   "total_expense": 4098822.0,
+   "net_cashflow": 2151279.0
+  },
+  {
+   "time": "2024-05",
+   "total_income": 4527000.0,
+   "total_expense": 6434944.0,
+   "net_cashflow": -1907944.0
+  },
+  {
+   "time": "2024-06",
+   "total_income": 3810000.0,
+   "total_expense": 4157915.0,
+   "net_cashflow": -347915.0000000001
+  },
+  {
+   "time": "2024-07",
+   "total_income": 11720000.0,
+   "total_expense": 11100621.0,
+   "net_cashflow": 619378.9999999999
+  },
+  {
+   "time": "2024-08",
+   "total_income": 9629000.0,
+   "total_expense": 9142500.0,
+   "net_cashflow": 486500.0
+  },
+  {
+   "time": "2024-09",
+   "total_income": 2000000.0000000002,
+   "total_expense": 3438231.0,
+   "net_cashflow": -1438231.0
+  },
+  {
+   "time": "2024-10",
+   "total_income": 13382000.0,
+   "total_expense": 11673752.0,
+   "net_cashflow": 1708248.0
+  },
+  {
+   "time": "2024-11",
+   "total_income": 9521142.0,
+   "total_expense": 8280550.0,
+   "net_cashflow": 1240592.0
+  }
+ ],
+ "anomaly_detection": [
+  {
+   "description": "Unusual spending detected in Marketing.",
+   "time": "2023-08",
+   "amount": 1412949.9999999998
+  },
+  {
+   "description": "Unusual spending detected in Marketing.",
+   "time": "2023-09",
+   "amount": 1443530.0
+  },
+  {
+   "description": "Unusual spending detected in Marketing.",
+   "time": "2023-10",
+   "amount": 1652785.0
+  },
+  {
+   "description": "Unusual spending detected in Marketing.",
+   "time": "2023-11",
+   "amount": 1077068.0
+  },
+  {
+   "description": "Unusual spending detected in Marketing.",
+   "time": "2023-12",
+   "amount": 1829508.0
+  },
+  {
+   "description": "Unusual spending detected in Marketing.",
+   "time": "2024-01",
+   "amount": 11400361.0
+  },
+  {
+   "description": "Unusual spending detected in Marketing.",
+   "time": "2024-02",
+   "amount": 18971500.0
+  },
+  {
+   "description": "Unusual spending detected in Marketing.",
+   "time": "2024-03",
+   "amount": 2670818.0
+  },
+  {
+   "description": "Unusual spending detected in Marketing.",
+   "time": "2024-04",
+   "amount": 4098822.0
+  },
+  {
+   "description": "Unusual spending detected in Marketing.",
+   "time": "2024-05",
+   "amount": 6434944.0
+  },
+  {
+   "description": "Unusual spending detected in Marketing.",
+   "time": "2024-06",
+   "amount": 4157915.0
+  },
+  {
+   "description": "Unusual spending detected in Marketing.",
+   "time": "2024-07",
+   "amount": 11100621.0
+  },
+  {
+   "description": "Unusual spending detected in Marketing.",
+   "time": "2024-08",
+   "amount": 9142500.0
+  },
+  {
+   "description": "Unusual spending detected in Marketing.",
+   "time": "2024-09",
+   "amount": 3438231.0
+  },
+  {
+   "description": "Unusual spending detected in Marketing.",
+   "time": "2024-10",
+   "amount": 11673752.0
+  },
+  {
+   "description": "Unusual spending detected in Marketing.",
+   "time": "2024-11",
+   "amount": 8280550.0
+  }
+ ],
+ "financial_advice": [
+  {
+   "time": "2023-08",
+   "advice": [
+    "Reduce unnecessary expenses in Marketing.",
+    "Consider increasing product offerings."
+   ]
+  },
+  {
+   "time": "2023-09",
+   "advice": [
+    "Reduce unnecessary expenses in Marketing.",
+    "Consider increasing product offerings."
+   ]
+  },
+  {
+   "time": "2023-10",
+   "advice": [
+    "Reduce unnecessary expenses in Marketing.",
+    "Consider increasing product offerings."
+   ]
+  },
+  {
+   "time": "2023-11",
+   "advice": [
+    "Reduce unnecessary expenses in Marketing.",
+    "Consider increasing product offerings."
+   ]
+  },
+  {
+   "time": "2023-12",
+   "advice": [
+    "Reduce unnecessary expenses in Marketing.",
+    "Consider increasing product offerings."
+   ]
+  },
+  {
+   "time": "2024-01",
+   "advice": [
+    "Reduce unnecessary expenses in Marketing.",
+    "Consider increasing product offerings."
+   ]
+  },
+  {
+   "time": "2024-02",
+   "advice": [
+    "Reduce unnecessary expenses in Marketing.",
+    "Consider increasing product offerings."
+   ]
+  },
+  {
+   "time": "2024-03",
+   "advice": [
+    "Reduce unnecessary expenses in Marketing.",
+    "Consider increasing product offerings."
+   ]
+  },
+  {
+   "time": "2024-04",
+   "advice": [
+    "Reduce unnecessary expenses in Marketing.",
+    "Consider increasing product offerings."
+   ]
+  },
+  {
+   "time": "2024-05",
+   "advice": [
+    "Reduce unnecessary expenses in Marketing.",
+    "Consider increasing product offerings."
+   ]
+  },
+  {
+   "time": "2024-06",
+   "advice": [
+    "Reduce unnecessary expenses in Marketing.",
+    "Consider increasing product offerings."
+   ]
+  },
+  {
+   "time": "2024-07",
+   "advice": [
+    "Reduce unnecessary expenses in Marketing.",
+    "Consider increasing product offerings."
+   ]
+  },
+  {
+   "time": "2024-08",
+   "advice": [
+    "Reduce unnecessary expenses in Marketing.",
+    "Consider increasing product offerings."
+   ]
+  },
+  {
+   "time": "2024-09",
+   "advice": [
+    "Reduce unnecessary expenses in Marketing.",
+    "Consider increasing product offerings."
+   ]
+  },
+  {
+   "time": "2024-10",
+   "advice": [
+    "Reduce unnecessary expenses in Marketing.",
+    "Consider increasing product offerings."
+   ]
+  },
+  {
+   "time": "2024-11",
+   "advice": [
+    "Reduce unnecessary expenses in Marketing.",
+    "Consider increasing product offerings."
+   ]
+  }
+ ]
+}
